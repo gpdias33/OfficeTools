@@ -8,3 +8,4 @@ tarefas do dia a dia nos escritórios, como:
 4. Extrair texto de imagem;
 5. Extrair planilhas de PDF;
 6. Salvar planilhas de sites em Excel.
+7. Word para PDF (ilustrativo)
