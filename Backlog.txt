@@ -1,0 +1,10 @@
+
+O OfficeTools é um projeto opensource de minha autoria que visa disponibilizar algumas
+tarefas do dia a dia nos escritórios, como:
+
+1. Transformar PDF em texto, Word ou planilha;
+2. Extrair imagens de PDF;
+3. Extrair textos de PDF imagem;
+4. Extrair texto de imagem;
+5. Extrair planilhas de PDF;
+6. Salvar planilhas de sites em Excel.
